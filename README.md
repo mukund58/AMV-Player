@@ -1,8 +1,7 @@
 A Simple script to play random AMV video from youtube.
 - Dependency
-  For arch
   ```
-  sudo pacman -S  curl yt-dlp pup mpv 
+   curl yt-dlp pup mpv 
   ```
 How to use this script
 ```
